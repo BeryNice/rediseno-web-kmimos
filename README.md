@@ -30,11 +30,30 @@ Kmimos es un proyecto de rediseño web dónde detectamos áreas de mejora en usa
 * Sólo cuentan con un miniposter que tiene  información de contacto y brindan más detalles estrictamente en el caso de que el cliente pregunte
 
 ### Encuestas
-[Ver Resultados](https://drive.google.com/drive/folders/11LvCLBJE9hpK95pSDcyWa5FVuzY8zFyu)
-El 69% son mujeres en su mayoría solteras
-Cuidan a su mascota como un miembro más de su familia 
-Buscan opciones que les de confianza 
- Esperan que los cuidadores sean profesionales 
+[Ver Resultados](https://drive.google.com/open?id=1O7M3DQ3wyvxIqrCDO2gstVlrIXMjX3P1)
+* El 69% son mujeres en su mayoría solteras
+* Cuidan a su mascota como un miembro más de su familia 
+* Buscan opciones que les de confianza 
+* Esperan que los cuidadores sean profesionales 
+
+## User persona
+![User persona principal](user-persona.png)
+## Empathy maps
+![Empathy map - User Persona Principal](images/EmpatyMap-DogLover.jpg)
+
+![Empathy map - User Persona Secundaria](images/EmpatyMap-FamilyLover.jpg)
+
+## Journey map
+![Empathy map - User Persona Principal](images/journey-v2.jpg)
+
+
+[Primera presentación](https://docs.google.com/presentation/d/18bBW1uNSuBmjsn9aYBqwkG146GzX3qhzd2xTpEBou9M/edit#slide=id.g46e222315e_0_20)
+
+[Segunda presentación](https://docs.google.com/presentation/d/17SlExZ-5Bzn6TdT208-M6oYMgNEPaUqaPpYZbTcOpRc/edit#slide=id.g4706c582d3_4_163)
 
 ## Prototipo
+Hacer una página o landing page que indique la alianza entre  Petco   y   Kmimos
+Arquitectura de la información 
+Detallar los servicios y a que se dedica Kmimos
+Mejorar el form inicial para personalizar servicios solicitados de acuerdo a sus necesidades 
 [prototipo](https://marvelapp.com/394ji52/screen/50379920)
