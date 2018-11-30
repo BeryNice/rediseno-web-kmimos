@@ -21,6 +21,7 @@ Kmimos es un proyecto de rediseño web dónde detectamos áreas de mejora en usa
 ## Investigación de campo
 
 ### Visita a Tiendas y Entrevistas
+![investigacion-de-campo](images/investigacion-de-campo.jpg)
 [Ver Documentación](https://drive.google.com/drive/folders/11LvCLBJE9hpK95pSDcyWa5FVuzY8zFyu)
 
 * Las personas que contratan los servicios de "Hospedaje" y "Paseos" son de clase alta, de 25 a 35 años y en su mayoría mujeres
