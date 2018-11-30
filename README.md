@@ -112,13 +112,21 @@ Para ayudar a transmitir el mensaje de Kmimos de una manera más clara y organiz
 ![testing](images/wireframes.jpg)
 
 
+## Prototipo
 
+[prototipo](https://marvelapp.com/394ji52/screen/50379920)
+
+## Recomendaciones Futuras
+* Incluir links a notas de medios que estan hablando de Kmimos para dar mayor confianza a usuarios nuevos
+* Definir los pasos de reserva para dar más claridad y que no queden vacios en las instrucciones
+* Agregar información a las secciones que no tienen 
+* Mejorar la visualización de testimonios
+* Rediseñar el copy y estructura de sección Club Patitas para ser más claros en los beneficios de referir a amigos
+
+![testing](images/kmimos-home-testimonios.jpg)
+
+![testing](images/kmimos-home-club-patitas.jpg)
 
 [Segunda presentación](https://docs.google.com/presentation/d/17SlExZ-5Bzn6TdT208-M6oYMgNEPaUqaPpYZbTcOpRc/edit#slide=id.g4706c582d3_4_163)
 
-## Prototipo
-Hacer una página o landing page que indique la alianza entre  Petco   y   Kmimos
-Arquitectura de la información 
-Detallar los servicios y a que se dedica Kmimos
-Mejorar el form inicial para personalizar servicios solicitados de acuerdo a sus necesidades 
-[prototipo](https://marvelapp.com/394ji52/screen/50379920)
+
