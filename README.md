@@ -15,11 +15,14 @@ Kmimos es un proyecto de rediseño web dónde detectamos áreas de mejora en usa
 
 ![sitio-original](images/kmimos-original.jpg)
 
+Se realizaron pruebas de usabilidad tanto en computadoras de escritorio como en móviles, detectamos frustración, desconfianza, confusión e inseguridad por parte de los usuario.
+
 * Usuarios no tienen tan claro el tipo de servicio que ofrece Kmimos, sobre todo cuando son nuevos 
 * Se confunden, ya que se les menciona que reservan en "3 simples pasos" y ellos perciben más 
 * Al querer "Reservar" se le da mucha prioridad a los datos del cuidador y la acción no se encuentra visible 
 * Dentro de los datos del cuidador hay información confusa "31 años de experiencia" "Cuidadores certificados"
-[pruebas de usabilidad](https://docs.google.com/document/d/15r4QFZYO9iFd6MLCkyq9cmMDicD-56N1dj7zV_06M_U/edit?usp=sharing)
+
+[Pruebas de usabilidad](https://docs.google.com/document/d/15r4QFZYO9iFd6MLCkyq9cmMDicD-56N1dj7zV_06M_U/edit?usp=sharing)
 
 ## Investigación de campo
 
@@ -33,12 +36,16 @@ Kmimos es un proyecto de rediseño web dónde detectamos áreas de mejora en usa
 * Dentro de las tiendas desconocen la alianza con Kmimos y no saben a detalle los servicios que ofrecen 
 * Sólo cuentan con un miniposter que tiene  información de contacto y brindan más detalles estrictamente en el caso de que el cliente pregunte
 
+
 ### Encuestas
 [Ver Resultados](https://drive.google.com/open?id=1O7M3DQ3wyvxIqrCDO2gstVlrIXMjX3P1)
 * El 69% son mujeres en su mayoría solteras
 * Cuidan a su mascota como un miembro más de su familia 
 * Buscan opciones que les de confianza 
 * Esperan que los cuidadores sean profesionales 
+
+## Journey map
+![Empathy map - User Persona Principal](images/journey-v2.jpg)
 
 ## User persona
 ![User persona principal](images/user-persona.png)
@@ -48,10 +55,6 @@ Kmimos es un proyecto de rediseño web dónde detectamos áreas de mejora en usa
 ![Empathy map - User Persona Principal](images/EmpatyMap-DogLover.jpg)
 
 ![Empathy map - User Persona Secundaria](images/EmpatyMap-FamilyLover.jpg)
-
-## Journey map
-![Empathy map - User Persona Principal](images/journey-v2.jpg)
-
 
 ## Insights
 * Su mascota es parte de su familia
@@ -64,7 +67,43 @@ Kmimos es un proyecto de rediseño web dónde detectamos áreas de mejora en usa
 * Buen trato hacia ellos como dueños
 
 
+## Propuestas de Solución Rediseño Web
+Después del análisis e investigación proponemos realizar algunos cambios para hacer más claro el mensaje que Kmimos quiere transmitir a los nuevos usuarios, principalmente a los que obtiene de la alianza con Petco, por lo cual proponemos:
+
+* Hacer una página o landing page que indique la alianza entre Petco y Kmimos
+* Mejorar la Arquitectura de la información 
+* Detallar los servicios y a que se dedica Kmimos
+* Mejorar el form inicial para personalizar servicios solicitados de acuerdo a sus necesidades 
+
 [Primera presentación](https://docs.google.com/presentation/d/18bBW1uNSuBmjsn9aYBqwkG146GzX3qhzd2xTpEBou9M/edit#slide=id.g46e222315e_0_20)
+
+### Primer alcance
+Para nuestra primer alcance proponemos mejorar la usabilidad del formulario de reserva de servicio en Kmimos
+
+![Mejora-del-formulario](images/kmimos-home-form-reservacion.jpg)
+
+#### Beneficio:
+Optimizar el formulario lo más posible logrará cumplir el objetivo de negocio que es la venta de un servicio, al mismo tiempo que se cumple el objetivo del usuario reservar un servicio.
+
+#### Objetivo del usuario:
+Quiere reservar el hospedaje, guardería, paseo o adiestramiento para su perro en una fecha específica
+
+#### Estrategia a implementar:
+* Recopilar los datos estrictamente necesarios del usuario
+* Facilitar el registro haciendo que el usuario no pierda la paciencia
+* Eliminar el campo INE
+* Evitar obstáculos que impidan que los usuarios nuevos desistan de realizar una reserva o registrarse
+
+### Ajustes adicionales 
+Para ayudar a transmitir el mensaje de Kmimos de una manera más clara y organizada proponemos hacer incapié sobre los beneficios de dejar a su mascota con cuidadores certificados de Kmimos
+
+![beneficios-kmimos](images/kmimos-home-beneficios.jpg)
+
+## Sketches Pantalla de inicio y formulario de reserva
+
+![beneficios-kmimos](images/kmimos-home-beneficios.jpg)
+
+
 
 [Segunda presentación](https://docs.google.com/presentation/d/17SlExZ-5Bzn6TdT208-M6oYMgNEPaUqaPpYZbTcOpRc/edit#slide=id.g4706c582d3_4_163)
 
