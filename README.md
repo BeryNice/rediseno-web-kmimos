@@ -113,6 +113,7 @@ Para ayudar a transmitir el mensaje de Kmimos de una manera más clara y organiz
 
 
 ## Prototipo
+![prototipo](images/prototipo.jpg)
 
 [prototipo](https://marvelapp.com/394ji52/screen/50379920)
 
@@ -123,9 +124,9 @@ Para ayudar a transmitir el mensaje de Kmimos de una manera más clara y organiz
 * Mejorar la visualización de testimonios
 * Rediseñar el copy y estructura de sección Club Patitas para ser más claros en los beneficios de referir a amigos
 
-![testing](images/kmimos-home-testimonios.jpg)
+![testimonios](images/kmimos-home-testimonios.jpg)
 
-![testing](images/kmimos-home-club-patitas.jpg)
+![club-patitas](images/kmimos-home-club-patitas.jpg)
 
 [Segunda presentación](https://docs.google.com/presentation/d/17SlExZ-5Bzn6TdT208-M6oYMgNEPaUqaPpYZbTcOpRc/edit#slide=id.g4706c582d3_4_163)
 
