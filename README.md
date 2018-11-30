@@ -115,7 +115,7 @@ Para ayudar a transmitir el mensaje de Kmimos de una manera más clara y organiz
 ## Prototipo
 ![prototipo](images/prototipo.jpg)
 
-[prototipo](https://marvelapp.com/394ji52/screen/50379920)
+[prototipo en marvel](https://marvelapp.com/394ji52/screen/50379920)
 
 ## Recomendaciones Futuras
 * Incluir links a notas de medios que estan hablando de Kmimos para dar mayor confianza a usuarios nuevos
