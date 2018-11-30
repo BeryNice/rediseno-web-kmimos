@@ -95,13 +95,22 @@ Quiere reservar el hospedaje, guardería, paseo o adiestramiento para su perro e
 * Evitar obstáculos que impidan que los usuarios nuevos desistan de realizar una reserva o registrarse
 
 ### Ajustes adicionales 
-Para ayudar a transmitir el mensaje de Kmimos de una manera más clara y organizada proponemos hacer incapié sobre los beneficios de dejar a su mascota con cuidadores certificados de Kmimos
+Para ayudar a transmitir el mensaje de Kmimos de una manera más clara y organizada proponemos hacer incapié sobre los beneficios de dejar a su mascota con cuidadores certificados de Kmimos, reestructurando la página inicial de Kmimos
 
 ![beneficios-kmimos](images/kmimos-home-beneficios.jpg)
 
 ## Sketches Pantalla de inicio y formulario de reserva
 
-![beneficios-kmimos](images/kmimos-home-beneficios.jpg)
+![sketches](images/sketches.jpg)
+
+## Testing de flujo
+
+![testing](images/testing-flujo.jpg)
+
+## Wireframes
+
+![testing](images/wireframes.jpg)
+
 
 
 
