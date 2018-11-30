@@ -12,6 +12,9 @@ Kmimos es un proyecto de rediseño web dónde detectamos áreas de mejora en usa
 * Mejorar la usabilidad de su sitio web 
 
 ## Pruebas de usabilidad
+
+![sitio-original](images/kmimos-original.jpg)
+
 * Usuarios no tienen tan claro el tipo de servicio que ofrece Kmimos, sobre todo cuando son nuevos 
 * Se confunden, ya que se les menciona que reservan en "3 simples pasos" y ellos perciben más 
 * Al querer "Reservar" se le da mucha prioridad a los datos del cuidador y la acción no se encuentra visible 
@@ -38,7 +41,9 @@ Kmimos es un proyecto de rediseño web dónde detectamos áreas de mejora en usa
 * Esperan que los cuidadores sean profesionales 
 
 ## User persona
-![User persona principal](user-persona.png)
+![User persona principal](images/user-persona.png)
+![User-mascota](images/user-mascota.jpg)
+
 ## Empathy maps
 ![Empathy map - User Persona Principal](images/EmpatyMap-DogLover.jpg)
 
@@ -46,6 +51,17 @@ Kmimos es un proyecto de rediseño web dónde detectamos áreas de mejora en usa
 
 ## Journey map
 ![Empathy map - User Persona Principal](images/journey-v2.jpg)
+
+
+## Insights
+* Su mascota es parte de su familia
+* Son 100% responsables de su cuidado
+* Cuando salen de viaje se preocupan por dejarlo en buenas manos
+* Se preocupan por su seguridad, libertad y entretenimiento
+* Deben sentir mucha confianza en la persona que cuidará a su perro
+* Confía por que son expertos en cuidados caninos
+* Monitoreo, Saber cómo está en cada momento 
+* Buen trato hacia ellos como dueños
 
 
 [Primera presentación](https://docs.google.com/presentation/d/18bBW1uNSuBmjsn9aYBqwkG146GzX3qhzd2xTpEBou9M/edit#slide=id.g46e222315e_0_20)
